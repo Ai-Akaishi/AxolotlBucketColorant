@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "active": {
+            "trigger": "minecraft:filled_bucket",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:axolotl_bucket"
+                    ]
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "axolotl_bucket_colorant:scoop"
+    }
+}

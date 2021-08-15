@@ -1,0 +1,14 @@
+{
+    "function": "copy_nbt",
+    "source": {
+        "type": "context",
+        "target": "this"
+    },
+    "ops": [
+        {
+            "source": "SelectedItem.tag.Variant",
+            "target": "CustomModelData",
+            "op": "replace"
+        }
+    ]
+}

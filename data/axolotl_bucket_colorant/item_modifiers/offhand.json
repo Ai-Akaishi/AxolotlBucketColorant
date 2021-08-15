@@ -1,0 +1,14 @@
+{
+    "function": "copy_nbt",
+    "source": {
+        "type": "context",
+        "target": "this"
+    },
+    "ops": [
+        {
+            "source": "Inventory[{Slot:-106b}].tag.Variant",
+            "target": "CustomModelData",
+            "op": "replace"
+        }
+    ]
+}
