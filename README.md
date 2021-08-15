@@ -1,5 +1,5 @@
 # AxolotlBucketColorant
-(Minecraft 1.17+)Reflect the original body color in a bucket with axolotl.
+(Minecraft 1.17+)Reflect the original body color in a bucket with axolotl.  
 ウーパールーパーが本来の体色のままバケツに入ってくれるデータパックです。
 
 # 動作確認済みバージョン / Verified minecraft versions
