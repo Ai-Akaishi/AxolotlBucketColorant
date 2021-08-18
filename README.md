@@ -10,6 +10,8 @@
 
 ワールドデータのdatapacksに入れてね。  
 Put this in the datapacks folder of your world data.  
+サーバーリソースパックにも適用してね。サーバーリソースパックとして適用させない場合は、個別にリソースパックとして入れてもらってね。  
+Apply this to the server resource pack as well. If you don't want to apply it as a server resource pack, ask each player to include it as a resource pack.  
   
 既にバケツに入ってしまっているウーパールーパーはバケツに入れなおすことで反映されます。  
 Buckets that already contain axolotl will reflect their body color by reinserting the axolotl into it.
