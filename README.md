@@ -5,6 +5,7 @@
 # 動作確認済みバージョン / Verified minecraft versions
 
 - 1.17.1
+- 1.18.0
 
 # 使い方 / How To Use
 
